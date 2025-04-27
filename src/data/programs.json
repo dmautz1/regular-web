@@ -1,0 +1,532 @@
+{
+  "programs": [
+    {
+      "id": 1,
+      "title": "Fight Club Workout",
+      "creator": "Regular AI",
+      "image": "/images/programs/fightclub.jpg",
+      "category": "Fitness",
+      "tasks": "1-5",
+      "duration": "90 days",
+      "subscribers": "324",
+      "about": "Brad Pitt's Fight Club routine is a testament to disciplined fitness and nutrition, with his workout emphasizing high reps and low weights for a lean, shredded look, and his diet focusing on clean eating to support his low body fat.",
+      "schedule": [
+        { "day": 1, "tasks": [
+            {"title": "Push-ups", "time": "09:00 AM"},
+            {"title": "Bench press", "time": "09:10 AM"},
+            {"title": "Nautilus press", "time": "09:20 AM"},
+            {"title": "Incline press", "time": "09:30 AM"},
+            {"title": "Pec deck", "time": "09:40 AM"}
+        ] },
+        { "day": 2, "tasks": [
+            {"title": "Pull-ups", "time": "09:00 AM"},
+            {"title": "Seated rows", "time": "09:10 AM"},
+            {"title": "Lat pull-downs", "time": "09:20 AM"},
+            {"title": "T-bar rows", "time": "09:30 AM"}
+        ] },
+        { "day": 3, "tasks": [
+            {"title": "Arnold press", "time": "09:00 AM"},
+            {"title": "Laterals", "time": "09:10 AM"},
+            {"title": "Front raises", "time": "09:20 AM"}
+        ] },
+        { "day": 4, "tasks": [
+            {"title": "Preacher curls", "time": "09:00 AM"},
+            {"title": "EZ curls", "time": "09:10 AM"},
+            {"title": "Hammer curls", "time": "09:20 AM"},
+            {"title": "Push downs", "time": "09:30 AM"}
+        ] },
+        { "day": 5, "tasks": [
+            {"title": "Treadmill at 80-90% max heart rate", "time": "09:00 AM"}
+        ] },
+        { "day": 6, "tasks": [
+            {"title": "Treadmill at 80-90% max heart rate", "time": "09:00 AM"}
+        ] },
+        { "day": 7, "tasks": [{"title": "Rest", "time": "09:00 AM"}] }
+        ]
+    },
+    {
+      "id": 2,
+      "title": "Brian Johnson Morning Routine",
+      "creator": "Regular AI",
+      "image": "/images/programs/brian.jpg",
+      "category": "Health",
+      "tasks": "19",
+      "duration": "Daily",
+      "subscribers": "157",
+      "about": "Brian Johnson's morning routine is a comprehensive regimen designed to optimize his health, productivity, and overall well-being. It includes a series of daily tasks and practices that help him maintain optimal physical and mental health.",
+      "schedule": [
+        { "day": 1, "tasks": [
+            {"title": "Wake up naturally", "time": "05:00 AM"},
+            {"title": "Check inner ear temperature", "time": "05:00 AM"},
+            {"title": "Measure body composition (weight, fat, muscle, hydration, arterial stiffness)", "time": "05:05 AM"},
+            {"title": "Breathing exercise or meditation", "time": "05:10 AM"},
+            {"title": "10,000-lux light exposure", "time": "05:15 AM"},
+            {"title": "Apply Rx hair serum and massage scalp", "time": "05:20 AM"},
+            {"title": "Wear red light therapy cap", "time": "05:22 AM"},
+            {"title": "Drink 8 oz longevity mix (Longevity Mix, Collagen, Creatine, Prebiotics, Inulin)", "time": "05:25 AM"},
+            {"title": "Exercise (balance, flexibility, strength, cardio)", "time": "05:30 AM"},
+            {"title": "Eat Blueprint Protein with Blueberry Nut Mix, Collagen, Olive Oil, Cocoa", "time": "06:45 AM"},
+            {"title": "Take morning supplements (Essential Capsules, Softgel, NAC, Red Yeast Rice, EPA/DHA/DPA, ProButyrate, Proferrin, NR/NMN, Acarbose, Metformin)", "time": "06:45 AM"},
+            {"title": "Face care (cleanse, serum, vitamin C, moisturizer)", "time": "07:15 AM"},
+            {"title": "Apply sunscreen if UV index > 3", "time": "07:20 AM"},
+            {"title": "Shower with body wash and exfoliate", "time": "07:25 AM"},
+            {"title": "Hair care with Blueprint Peptide Shampoo and Serum", "time": "07:30 AM"},
+            {"title": "10-minute walk outside", "time": "07:45 AM"},
+            {"title": "Begin work (high-value tasks, rotate sitting/standing)", "time": "07:55 AM"},
+            {"title": "Eat Super Veggie (lentils, broccoli, cauliflower, mushrooms, etc.)", "time": "09:00 AM"},
+            {"title": "Continue focused work with posture maintenance", "time": "09:30 AM"}
+        ] },
+        { "day": 2, "tasks": [
+            {"title": "Wake up naturally", "time": "05:00 AM"},
+            {"title": "Check inner ear temperature", "time": "05:00 AM"},
+            {"title": "Measure body composition (weight, fat, muscle, hydration, arterial stiffness)", "time": "05:05 AM"},
+            {"title": "Breathing exercise or meditation", "time": "05:10 AM"},
+            {"title": "10,000-lux light exposure", "time": "05:15 AM"},
+            {"title": "Apply Rx hair serum and massage scalp", "time": "05:20 AM"},
+            {"title": "Wear red light therapy cap", "time": "05:22 AM"},
+            {"title": "Drink 8 oz longevity mix (Longevity Mix, Collagen, Creatine, Prebiotics, Inulin)", "time": "05:25 AM"},
+            {"title": "Exercise (balance, flexibility, strength, cardio)", "time": "05:30 AM"},
+            {"title": "Eat Blueprint Protein with Blueberry Nut Mix, Collagen, Olive Oil, Cocoa", "time": "06:45 AM"},
+            {"title": "Take morning supplements (Essential Capsules, Softgel, NAC, Red Yeast Rice, EPA/DHA/DPA, ProButyrate, Proferrin, NR/NMN, Acarbose, Metformin)", "time": "06:45 AM"},
+            {"title": "Face care (cleanse, serum, vitamin C, moisturizer)", "time": "07:15 AM"},
+            {"title": "Apply sunscreen if UV index > 3", "time": "07:20 AM"},
+            {"title": "Shower with body wash and exfoliate", "time": "07:25 AM"},
+            {"title": "Hair care with Blueprint Peptide Shampoo and Serum", "time": "07:30 AM"},
+            {"title": "10-minute walk outside", "time": "07:45 AM"},
+            {"title": "Begin work (high-value tasks, rotate sitting/standing)", "time": "07:55 AM"},
+            {"title": "Eat Super Veggie (lentils, broccoli, cauliflower, mushrooms, etc.)", "time": "09:00 AM"},
+            {"title": "Continue focused work with posture maintenance", "time": "09:30 AM"}
+        ] },
+        { "day": 3, "tasks": [
+            {"title": "Wake up naturally", "time": "05:00 AM"},
+            {"title": "Check inner ear temperature", "time": "05:00 AM"},
+            {"title": "Measure body composition (weight, fat, muscle, hydration, arterial stiffness)", "time": "05:05 AM"},
+            {"title": "Breathing exercise or meditation", "time": "05:10 AM"},
+            {"title": "10,000-lux light exposure", "time": "05:15 AM"},
+            {"title": "Apply Rx hair serum and massage scalp", "time": "05:20 AM"},
+            {"title": "Wear red light therapy cap", "time": "05:22 AM"},
+            {"title": "Drink 8 oz longevity mix (Longevity Mix, Collagen, Creatine, Prebiotics, Inulin)", "time": "05:25 AM"},
+            {"title": "Exercise (balance, flexibility, strength, cardio)", "time": "05:30 AM"},
+            {"title": "Eat Blueprint Protein with Blueberry Nut Mix, Collagen, Olive Oil, Cocoa", "time": "06:45 AM"},
+            {"title": "Take morning supplements (Essential Capsules, Softgel, NAC, Red Yeast Rice, EPA/DHA/DPA, ProButyrate, Proferrin, NR/NMN, Acarbose, Metformin)", "time": "06:45 AM"},
+            {"title": "Face care (cleanse, serum, vitamin C, moisturizer)", "time": "07:15 AM"},
+            {"title": "Apply sunscreen if UV index > 3", "time": "07:20 AM"},
+            {"title": "Shower with body wash and exfoliate", "time": "07:25 AM"},
+            {"title": "Hair care with Blueprint Peptide Shampoo and Serum", "time": "07:30 AM"},
+            {"title": "10-minute walk outside", "time": "07:45 AM"},
+            {"title": "Begin work (high-value tasks, rotate sitting/standing)", "time": "07:55 AM"},
+            {"title": "Eat Super Veggie (lentils, broccoli, cauliflower, mushrooms, etc.)", "time": "09:00 AM"},
+            {"title": "Continue focused work with posture maintenance", "time": "09:30 AM"}
+        ] },
+        { "day": 4, "tasks": [
+            {"title": "Wake up naturally", "time": "05:00 AM"},
+            {"title": "Check inner ear temperature", "time": "05:00 AM"},
+            {"title": "Measure body composition (weight, fat, muscle, hydration, arterial stiffness)", "time": "05:05 AM"},
+            {"title": "Breathing exercise or meditation", "time": "05:10 AM"},
+            {"title": "10,000-lux light exposure", "time": "05:15 AM"},
+            {"title": "Apply Rx hair serum and massage scalp", "time": "05:20 AM"},
+            {"title": "Wear red light therapy cap", "time": "05:22 AM"},
+            {"title": "Drink 8 oz longevity mix (Longevity Mix, Collagen, Creatine, Prebiotics, Inulin)", "time": "05:25 AM"},
+            {"title": "Exercise (balance, flexibility, strength, cardio)", "time": "05:30 AM"},
+            {"title": "Eat Blueprint Protein with Blueberry Nut Mix, Collagen, Olive Oil, Cocoa", "time": "06:45 AM"},
+            {"title": "Take morning supplements (Essential Capsules, Softgel, NAC, Red Yeast Rice, EPA/DHA/DPA, ProButyrate, Proferrin, NR/NMN, Acarbose, Metformin)", "time": "06:45 AM"},
+            {"title": "Face care (cleanse, serum, vitamin C, moisturizer)", "time": "07:15 AM"},
+            {"title": "Apply sunscreen if UV index > 3", "time": "07:20 AM"},
+            {"title": "Shower with body wash and exfoliate", "time": "07:25 AM"},
+            {"title": "Hair care with Blueprint Peptide Shampoo and Serum", "time": "07:30 AM"},
+            {"title": "10-minute walk outside", "time": "07:45 AM"},
+            {"title": "Begin work (high-value tasks, rotate sitting/standing)", "time": "07:55 AM"},
+            {"title": "Eat Super Veggie (lentils, broccoli, cauliflower, mushrooms, etc.)", "time": "09:00 AM"},
+            {"title": "Continue focused work with posture maintenance", "time": "09:30 AM"}
+        ] },
+        { "day": 5, "tasks": [
+            {"title": "Wake up naturally", "time": "05:00 AM"},
+            {"title": "Check inner ear temperature", "time": "05:00 AM"},
+            {"title": "Measure body composition (weight, fat, muscle, hydration, arterial stiffness)", "time": "05:05 AM"},
+            {"title": "Breathing exercise or meditation", "time": "05:10 AM"},
+            {"title": "10,000-lux light exposure", "time": "05:15 AM"},
+            {"title": "Apply Rx hair serum and massage scalp", "time": "05:20 AM"},
+            {"title": "Wear red light therapy cap", "time": "05:22 AM"},
+            {"title": "Drink 8 oz longevity mix (Longevity Mix, Collagen, Creatine, Prebiotics, Inulin)", "time": "05:25 AM"},
+            {"title": "Exercise (balance, flexibility, strength, cardio)", "time": "05:30 AM"},
+            {"title": "Eat Blueprint Protein with Blueberry Nut Mix, Collagen, Olive Oil, Cocoa", "time": "06:45 AM"},
+            {"title": "Take morning supplements (Essential Capsules, Softgel, NAC, Red Yeast Rice, EPA/DHA/DPA, ProButyrate, Proferrin, NR/NMN, Acarbose, Metformin)", "time": "06:45 AM"},
+            {"title": "Face care (cleanse, serum, vitamin C, moisturizer)", "time": "07:15 AM"},
+            {"title": "Apply sunscreen if UV index > 3", "time": "07:20 AM"},
+            {"title": "Shower with body wash and exfoliate", "time": "07:25 AM"},
+            {"title": "Hair care with Blueprint Peptide Shampoo and Serum", "time": "07:30 AM"},
+            {"title": "10-minute walk outside", "time": "07:45 AM"},
+            {"title": "Begin work (high-value tasks, rotate sitting/standing)", "time": "07:55 AM"},
+            {"title": "Eat Super Veggie (lentils, broccoli, cauliflower, mushrooms, etc.)", "time": "09:00 AM"},
+            {"title": "Continue focused work with posture maintenance", "time": "09:30 AM"}
+        ] },
+        { "day": 6, "tasks": [
+            {"title": "Wake up naturally", "time": "05:00 AM"},
+            {"title": "Check inner ear temperature", "time": "05:00 AM"},
+            {"title": "Measure body composition (weight, fat, muscle, hydration, arterial stiffness)", "time": "05:05 AM"},
+            {"title": "Breathing exercise or meditation", "time": "05:10 AM"},
+            {"title": "10,000-lux light exposure", "time": "05:15 AM"},
+            {"title": "Apply Rx hair serum and massage scalp", "time": "05:20 AM"},
+            {"title": "Wear red light therapy cap", "time": "05:22 AM"},
+            {"title": "Drink 8 oz longevity mix (Longevity Mix, Collagen, Creatine, Prebiotics, Inulin)", "time": "05:25 AM"},
+            {"title": "Exercise (balance, flexibility, strength, cardio)", "time": "05:30 AM"},
+            {"title": "Eat Blueprint Protein with Blueberry Nut Mix, Collagen, Olive Oil, Cocoa", "time": "06:45 AM"},
+            {"title": "Take morning supplements (Essential Capsules, Softgel, NAC, Red Yeast Rice, EPA/DHA/DPA, ProButyrate, Proferrin, NR/NMN, Acarbose, Metformin)", "time": "06:45 AM"},
+            {"title": "Face care (cleanse, serum, vitamin C, moisturizer)", "time": "07:15 AM"},
+            {"title": "Apply sunscreen if UV index > 3", "time": "07:20 AM"},
+            {"title": "Shower with body wash and exfoliate", "time": "07:25 AM"},
+            {"title": "Hair care with Blueprint Peptide Shampoo and Serum", "time": "07:30 AM"},
+            {"title": "10-minute walk outside", "time": "07:45 AM"},
+            {"title": "Begin work (high-value tasks, rotate sitting/standing)", "time": "07:55 AM"},
+            {"title": "Eat Super Veggie (lentils, broccoli, cauliflower, mushrooms, etc.)", "time": "09:00 AM"},
+            {"title": "Continue focused work with posture maintenance", "time": "09:30 AM"}
+        ] },
+        { "day": 7, "tasks": [
+            {"title": "Wake up naturally", "time": "05:00 AM"},
+            {"title": "Check inner ear temperature", "time": "05:00 AM"},
+            {"title": "Measure body composition (weight, fat, muscle, hydration, arterial stiffness)", "time": "05:05 AM"},
+            {"title": "Breathing exercise or meditation", "time": "05:10 AM"},
+            {"title": "10,000-lux light exposure", "time": "05:15 AM"},
+            {"title": "Apply Rx hair serum and massage scalp", "time": "05:20 AM"},
+            {"title": "Wear red light therapy cap", "time": "05:22 AM"},
+            {"title": "Drink 8 oz longevity mix (Longevity Mix, Collagen, Creatine, Prebiotics, Inulin)", "time": "05:25 AM"},
+            {"title": "Exercise (balance, flexibility, strength, cardio)", "time": "05:30 AM"},
+            {"title": "Eat Blueprint Protein with Blueberry Nut Mix, Collagen, Olive Oil, Cocoa", "time": "06:45 AM"},
+            {"title": "Take morning supplements (Essential Capsules, Softgel, NAC, Red Yeast Rice, EPA/DHA/DPA, ProButyrate, Proferrin, NR/NMN, Acarbose, Metformin)", "time": "06:45 AM"},
+            {"title": "Face care (cleanse, serum, vitamin C, moisturizer)", "time": "07:15 AM"},
+            {"title": "Apply sunscreen if UV index > 3", "time": "07:20 AM"},
+            {"title": "Shower with body wash and exfoliate", "time": "07:25 AM"},
+            {"title": "Hair care with Blueprint Peptide Shampoo and Serum", "time": "07:30 AM"},
+            {"title": "10-minute walk outside", "time": "07:45 AM"},
+            {"title": "Begin work (high-value tasks, rotate sitting/standing)", "time": "07:55 AM"},
+            {"title": "Eat Super Veggie (lentils, broccoli, cauliflower, mushrooms, etc.)", "time": "09:00 AM"},
+            {"title": "Continue focused work with posture maintenance", "time": "09:30 AM"}
+        ] }
+        ]
+    },
+    {
+      "id": 3,
+      "title": "Huberman Daily Routine",
+      "creator": "Regular AI",
+      "image": "/images/programs/huberman.jpg",
+      "category": "Wellness",
+      "tasks": "17",
+      "duration": "Daily",
+      "subscribers": "78",
+      "about": "Huberman Daily Routine is a comprehensive daily schedule designed to optimize health, productivity, and overall well-being. It includes a series of daily tasks and practices that help him maintain optimal physical and mental health.",
+      "schedule": [
+        { "day": 1, "tasks": [
+            {"title": "Wake up naturally", "time": "06:00 AM"},
+            {"title": "Drink 2 glasses of water", "time": "06:00 AM"},
+            {"title": "Drink AG1", "time": "06:00 AM"},
+            {"title": "Drink LMNT electrolyte drink", "time": "06:00 AM"},
+            {"title": "Yoga Nidra session (if not rested)", "time": "06:00 AM"},
+            {"title": "Sunlight exposure with optic flow walk", "time": "06:45 AM"},
+            {"title": "Cold exposure (ice bath or shower)", "time": "07:00 AM"},
+            {"title": "Leg workout (hack squat, leg extensions, seated calf raises, leg curls, glute hamstring raise)", "time": "07:30 AM"},
+            {"title": "Drink Yerba Mate", "time": "10:00 AM"},
+            {"title": "First meal (low-carb with meat and vegetables)", "time": "01:00 PM"},
+            {"title": "Optional Yoga Nidra session (if unrested)", "time": "03:00 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"}
+        ] },
+        { "day": 2, "tasks": [
+            {"title": "Wake up naturally", "time": "06:00 AM"},
+            {"title": "Drink 2 glasses of water", "time": "06:00 AM"},
+            {"title": "Drink AG1", "time": "06:00 AM"},
+            {"title": "Drink LMNT electrolyte drink", "time": "06:00 AM"},
+            {"title": "Yoga Nidra session (if not rested)", "time": "06:00 AM"},
+            {"title": "Sunlight exposure with optic flow walk", "time": "06:45 AM"},
+            {"title": "Cold exposure (ice bath or shower)", "time": "07:00 AM"},
+            {"title": "Leg workout (hack squat, leg extensions, seated calf raises, leg curls, glute hamstring raise)", "time": "07:30 AM"},
+            {"title": "Drink Yerba Mate", "time": "10:00 AM"},
+            {"title": "Second meal (low-carb with meat and vegetables)", "time": "01:00 PM"},
+            {"title": "Optional Yoga Nidra session (if unrested)", "time": "03:00 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"}
+        ] },
+        { "day": 3, "tasks": [
+            {"title": "Wake up naturally", "time": "06:00 AM"},
+            {"title": "Drink 2 glasses of water", "time": "06:00 AM"},
+            {"title": "Drink AG1", "time": "06:00 AM"},
+            {"title": "Drink LMNT electrolyte drink", "time": "06:00 AM"},
+            {"title": "Yoga Nidra session (if not rested)", "time": "06:00 AM"},
+            {"title": "Sunlight exposure with optic flow walk", "time": "06:45 AM"},
+            {"title": "Cold exposure (ice bath or shower)", "time": "07:00 AM"},
+            {"title": "Leg workout (hack squat, leg extensions, seated calf raises, leg curls, glute hamstring raise)", "time": "07:30 AM"},
+            {"title": "Drink Yerba Mate", "time": "10:00 AM"},
+            {"title": "Second meal (low-carb with meat and vegetables)", "time": "01:00 PM"},
+            {"title": "Optional Yoga Nidra session (if unrested)", "time": "03:00 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"}
+        ] },
+        { "day": 4, "tasks": [
+            {"title": "Wake up naturally", "time": "06:00 AM"},
+            {"title": "Drink 2 glasses of water", "time": "06:00 AM"},
+            {"title": "Drink AG1", "time": "06:00 AM"},
+            {"title": "Drink LMNT electrolyte drink", "time": "06:00 AM"},
+            {"title": "Yoga Nidra session (if not rested)", "time": "06:00 AM"},
+            {"title": "Sunlight exposure with optic flow walk", "time": "06:45 AM"},
+            {"title": "Cold exposure (ice bath or shower)", "time": "07:00 AM"},
+            {"title": "Leg workout (hack squat, leg extensions, seated calf raises, leg curls, glute hamstring raise)", "time": "07:30 AM"},
+            {"title": "Drink Yerba Mate", "time": "10:00 AM"},
+            {"title": "Second meal (low-carb with meat and vegetables)", "time": "01:00 PM"},
+            {"title": "Optional Yoga Nidra session (if unrested)", "time": "03:00 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"}
+        ] },
+        { "day": 5, "tasks": [
+            {"title": "Wake up naturally", "time": "06:00 AM"},
+            {"title": "Drink 2 glasses of water", "time": "06:00 AM"},
+            {"title": "Drink AG1", "time": "06:00 AM"},
+            {"title": "Drink LMNT electrolyte drink", "time": "06:00 AM"},
+            {"title": "Yoga Nidra session (if not rested)", "time": "06:00 AM"},
+            {"title": "Sunlight exposure with optic flow walk", "time": "06:45 AM"},
+            {"title": "Cold exposure (ice bath or shower)", "time": "07:00 AM"},
+            {"title": "Leg workout (hack squat, leg extensions, seated calf raises, leg curls, glute hamstring raise)", "time": "07:30 AM"},
+            {"title": "Drink Yerba Mate", "time": "10:00 AM"},
+            {"title": "Second meal (low-carb with meat and vegetables)", "time": "01:00 PM"},
+            {"title": "Optional Yoga Nidra session (if unrested)", "time": "03:00 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"}
+        ] },
+        { "day": 6, "tasks": [
+            {"title": "Wake up naturally", "time": "06:00 AM"},
+            {"title": "Drink 2 glasses of water", "time": "06:00 AM"},
+            {"title": "Drink AG1", "time": "06:00 AM"},
+            {"title": "Drink LMNT electrolyte drink", "time": "06:00 AM"},
+            {"title": "Yoga Nidra session (if not rested)", "time": "06:00 AM"},
+            {"title": "Sunlight exposure with optic flow walk", "time": "06:45 AM"},
+            {"title": "Cold exposure (ice bath or shower)", "time": "07:00 AM"},
+            {"title": "Leg workout (hack squat, leg extensions, seated calf raises, leg curls, glute hamstring raise)", "time": "07:30 AM"},
+            {"title": "Drink Yerba Mate", "time": "10:00 AM"},
+            {"title": "Second meal (low-carb with meat and vegetables)", "time": "01:00 PM"},
+            {"title": "Optional Yoga Nidra session (if unrested)", "time": "03:00 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"}
+        ] },
+        { "day": 7, "tasks": [
+            {"title": "Wake up naturally", "time": "06:00 AM"},
+            {"title": "Drink 2 glasses of water", "time": "06:00 AM"},
+            {"title": "Drink AG1", "time": "06:00 AM"},
+            {"title": "Drink LMNT electrolyte drink", "time": "06:00 AM"},
+            {"title": "Yoga Nidra session (if not rested)", "time": "06:00 AM"},
+            {"title": "Sunlight exposure with optic flow walk", "time": "06:45 AM"},
+            {"title": "Cold exposure (ice bath or shower)", "time": "07:00 AM"},
+            {"title": "Leg workout (hack squat, leg extensions, seated calf raises, leg curls, glute hamstring raise)", "time": "07:30 AM"},
+            {"title": "Drink Yerba Mate", "time": "10:00 AM"},
+            {"title": "Second meal (low-carb with meat and vegetables)", "time": "01:00 PM"},
+            {"title": "Optional Yoga Nidra session (if unrested)", "time": "03:00 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"},
+            {"title": "Evening cardio (zone 2 jogging or hiking)", "time": "06:30 PM"},
+            {"title": "Evening meal (starchy carbs, vegetables, lean protein)", "time": "07:00 PM"},
+            {"title": "Dim lighting (use minimal light or blue blockers)", "time": "09:30 PM"},
+            {"title": "Read books", "time": "10:00 PM"},
+            {"title": "Take sleep supplements (Magnesium Threonate, Theanine, Apigenin, optional Glycine, GABA)", "time": "10:00 PM"},
+            {"title": "Sleep", "time": "10:30 PM"}
+        ] }
+      ]
+    },
+    {
+        "id": 4,
+        "title": "Maya Krampf's Keto Meal Plan",
+        "creator": "Regular AI",
+        "image": "/images/programs/maya.jpg",
+        "category": "Keto",
+        "tasks": "3",
+        "duration": "Weekly",
+        "subscribers": "53",
+        "about": "Maya Krampf's keto meal plan is designed to be beginner-friendly, addressing common challenges such as lack of time, decision fatigue, and food waste. The inclusion of leftovers, such as Keto Egg Bites and Chicken Salad Lettuce Wraps, reflects her emphasis on practicality, making the plan sustainable for busy individuals.",
+        "schedule": [
+            {
+                "day": 1,
+                "tasks": [
+                {"title": "Keto Egg Bites", "time": "08:00"},
+                {"title": "Chicken Salad Lettuce Wraps", "time": "12:00"},
+                {"title": "Instant Pot Cheeseburger Soup", "time": "18:00"}
+                ]
+            },
+            {
+                "day": 2,
+                "tasks": [
+                {"title": "Keto Egg Bites (leftover)", "time": "08:00"},
+                {"title": "Chicken Salad Lettuce Wraps (leftover)", "time": "12:00"},
+                {"title": "Instant Pot Cheeseburger Soup (leftover)", "time": "18:00"}
+                ]
+            },
+            {
+                "day": 3,
+                "tasks": [
+                {"title": "Bulletproof Coffee", "time": "08:00"},
+                {"title": "Chicken Salad Lettuce Wraps (leftover)", "time": "12:00"},
+                {"title": "Beef Stew", "time": "18:00"}
+                ]
+            },
+            {
+                "day": 4,
+                "tasks": [
+                {"title": "Keto Egg Bites (leftover)", "time": "08:00"},
+                {"title": "Beef Stew (leftover)", "time": "12:00"},
+                {"title": "Chicken Parmesan", "time": "18:00"}
+                ]
+            },
+            {
+                "day": 5,
+                "tasks": [
+                {"title": "Bulletproof Coffee", "time": "08:00"},
+                {"title": "Chicken Parmesan (leftover)", "time": "12:00"},
+                {"title": "Salmon with Garlic and Butter", "time": "18:00"}
+                ]
+            },
+            {
+                "day": 6,
+                "tasks": [
+                {"title": "Keto Egg Bites (leftover)", "time": "08:00"},
+                {"title": "Salmon with Garlic and Butter (leftover)", "time": "12:00"},
+                {"title": "Low Carb Zuppa Toscana", "time": "18:00"}
+                ]
+            },
+            {
+                "day": 7,
+                "tasks": [
+                {"title": "Bulletproof Coffee", "time": "08:00"},
+                {"title": "Low Carb Zuppa Toscana (leftover)", "time": "12:00"},
+                {"title": "Keto Meatloaf", "time": "18:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Mindfulness and Relaxation Routine",
+        "creator": "Regular AI",
+        "image": "/images/programs/mindfulness.jpg",  
+        "category": "Mindfulness",
+        "tasks": "3-4",
+        "duration": "Weekly",
+        "subscribers": "12",
+        "about": "This mindfulness and relaxation routine is designed to help you reduce stress, improve your mental health, and increase your overall well-being. It includes a series of daily tasks and practices that help you maintain optimal physical and mental health.",
+        "schedule": [
+            {
+                "day": 1,
+                "tasks": [
+                {"title": "Mindfulness Meditation", "time": "07:00 AM"},
+                {"title": "Gratitude Journaling", "time": "07:15 AM"},
+                {"title": "Body Scan Meditation", "time": "08:00 PM"}
+                ]
+            },
+            {
+                "day": 2,
+                "tasks": [
+                {"title": "Mindfulness Meditation", "time": "07:00 AM"},
+                {"title": "Gratitude Journaling", "time": "07:15 AM"},
+                {"title": "Loving-Kindness Meditation", "time": "08:00 PM"}
+                ]
+            },
+            {
+                "day": 3,
+                "tasks": [
+                {"title": "Mindfulness Meditation", "time": "07:00 AM"},
+                {"title": "Gratitude Journaling", "time": "07:15 AM"},
+                {"title": "Progressive Muscle Relaxation", "time": "08:00 PM"}
+                ]
+            },
+            {
+                "day": 4,
+                "tasks": [
+                {"title": "Mindfulness Meditation", "time": "07:00 AM"},
+                {"title": "Gratitude Journaling", "time": "07:15 AM"},
+                {"title": "Yoga or Stretching", "time": "08:00 PM"}
+                ]
+            },
+            {
+                "day": 5,
+                "tasks": [
+                {"title": "Mindfulness Meditation", "time": "07:00 AM"},
+                {"title": "Gratitude Journaling", "time": "07:15 AM"},
+                {"title": "Listen to Calming Music", "time": "08:00 PM"}
+                ]
+            },
+            {
+                "day": 6,
+                "tasks": [
+                {"title": "Mindfulness Meditation", "time": "07:00 AM"},
+                {"title": "Gratitude Journaling", "time": "07:15 AM"},
+                {"title": "5-4-3-2-1 Grounding Technique", "time": "08:00 PM"},
+                {"title": "Evening Relaxation Meditation", "time": "09:00 PM"},
+                {"title": "Mindful Breathing", "time": "09:15 PM"}
+                ]
+            },
+            {
+                "day": 7,
+                "tasks": [
+                {"title": "Mindfulness Meditation", "time": "07:00 AM"},
+                {"title": "Gratitude Journaling", "time": "07:15 AM"},
+                {"title": "Box Breathing Exercise", "time": "08:00 PM"},
+                {"title": "Evening Relaxation Meditation", "time": "09:00 PM"},
+                {"title": "Mindful Breathing", "time": "09:15 PM"}
+                ]
+            }
+        ]
+    }
+  ]
+} 
