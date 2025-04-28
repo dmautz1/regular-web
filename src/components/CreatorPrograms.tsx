@@ -25,7 +25,7 @@ interface Program {
 
 const CreatorPrograms: React.FC = () => {
   const [activeProgram, setActiveProgram] = useState<Program>(programsData.programs[0]);
-  const [activeTab, setActiveTab] = useState<'overview' | 'schedule'>('overview');
+  const [activeTab, setActiveTab] = useState<'overview' | 'schedule'>('schedule');
   const [activeDay, setActiveDay] = useState(new Date().getDay());
 
   const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
