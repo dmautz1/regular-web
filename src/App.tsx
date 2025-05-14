@@ -31,9 +31,9 @@ function App() {
       <Navbar isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />
       <main>
         <HeroSection />
+        <CreatorPrograms />
         <FeatureSection />
         <HowItWorks />
-        <CreatorPrograms />
         <CallToAction />
       </main>
       <Footer />
