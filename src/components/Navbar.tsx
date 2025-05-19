@@ -30,8 +30,8 @@ const Navbar: React.FC<NavbarProps> = ({ isDarkMode, setIsDarkMode }) => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <div className="w-10 h-10 rounded-full bg-primary-500 flex items-center justify-center mr-2">
-              <CheckCircle className="text-white" size={24} />
+            <div className="w-10 h-10 rounded-full flex items-center justify-center mr-2">
+              <img src="/images/regular.png" alt="Regular" className="w-full h-full object-cover" />
             </div>
             <span className="text-2xl font-bold text-neutral-800 dark:text-white">Regular</span>
           </div>

@@ -8,8 +8,8 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <div className="flex items-center mb-4">
-              <div className="w-10 h-10 rounded-full bg-primary-500 dark:bg-primary-400 flex items-center justify-center mr-2">
-                <CheckCircle className="text-white" size={24} />
+              <div className="w-10 h-10 rounded-full flex items-center justify-center mr-2">
+                <img src="/images/regular.png" alt="Regular" className="w-full h-full object-cover" />
               </div>
               <span className="text-2xl font-bold">Regular</span>
             </div>
